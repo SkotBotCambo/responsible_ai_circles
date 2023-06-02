@@ -36,3 +36,8 @@ Move through 3 generous questions, ensuring everyone has a chance to share:
 
 ## Journal Prompt
 *What is something you see missing from the discourse in news media or social media? Is this something you could write?*
+
+## Supplementary Materials
+* NYT, Kevin Roose, 05/30/2023, [*A.I. Poses 'Risk of Extinction', Industry Leaders Warn*](https://www.nytimes.com/2023/05/30/technology/ai-threat-warning.html)
+* NPR, Vanessa Romo, 05/30/2023, [*Leading experts warn of risk of extinction from AI](https://www.npr.org/2023/05/30/1178943163/ai-risk-extinction-chatgpt)
+* WaPo, Aaron Gregg, Cristiano Lamo, Gerrit De Vynck, [*AI poses 'risk of extinction' on par with nukes, tech leaders say](https://www.washingtonpost.com/business/2023/05/30/ai-poses-risk-extinction-industry-leaders-warn/)
