@@ -26,6 +26,16 @@ Share these agreements for Circle dialogue. Then, welcome any questions / commen
 
 Additional agreements for this Circle?
 
+#### Suggestions from the Group:
+***NOTE to Scott*** THis needs to get summarized.
+
+* Proactively seeking to understand perspectives from those who hold different identities and social positions.
+* Let's put effort into inviting folks from many different identities.
+    * choosing topics that will interest those we would like to invite to this dialog.
+* There is value in bringing in a diverse group that go beyond ethical. These alleviate blindspots
+* Being very intentional and thoughtful about the behaviors that make people feel safe and welcome to discuss in such spaces. Thoughtful about power dynamics.
+* Feel free to call each other in when it seems like we could learn from a voice that we are not yet hearing enough from.
+
 ## Discussion
 Move through 3 generous questions, ensuring everyone has a chance to share:
 
@@ -41,3 +51,6 @@ Move through 3 generous questions, ensuring everyone has a chance to share:
 * NYT, Kevin Roose, 05/30/2023, [*A.I. Poses 'Risk of Extinction', Industry Leaders Warn*](https://www.nytimes.com/2023/05/30/technology/ai-threat-warning.html)
 * NPR, Vanessa Romo, 05/30/2023, [*Leading experts warn of risk of extinction from AI](https://www.npr.org/2023/05/30/1178943163/ai-risk-extinction-chatgpt)
 * WaPo, Aaron Gregg, Cristiano Lamo, Gerrit De Vynck, [*AI poses 'risk of extinction' on par with nukes, tech leaders say](https://www.washingtonpost.com/business/2023/05/30/ai-poses-risk-extinction-industry-leaders-warn/)
+
+### Mentioned in the discussion
+* [*Range* by David Epstein](https://davidepstein.com/the-range/)
